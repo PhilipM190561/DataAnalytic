@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="MyFirst" type="Clojure" />
+      <mapping pattern="clsHistogramReports.clj" type="Clojure" />
+      <mapping pattern="AdaptIndicators" type="Clojure" />
+    </extensionMap>
+  </component>
+</application>
